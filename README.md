@@ -1,4 +1,4 @@
-# Named-Entity-Recognition-NLP-Project using BERT
+# Named-Entity-Recognition-NLP-Project-using-BERT
 
 PROBLEM STAEMENT
 In this project we will be performing one of the most famous task in the field of natural language processing i,e Name Entity Recognition.

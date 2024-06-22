@@ -12,7 +12,7 @@ Named entities are the research subjects for named entity recognition. Generally
 The main types of errors include correct text, which may be of the wrong type; conversely, text boundaries are incorrect, and the main entity words and part-of-speech tokens it contains may be correct.
 
 
-TECHNOLOGY USE
-Here we will be using  Anaconda Python 3.6 , Pytorch 1.4 with GPU support CUDA 10 with CuDNN 10.
+# TECHNOLOGY USE
+Here we will be using Anaconda Python 3.6 , Pytorch 1.4 with GPU support CUDA 10 with CuDNN 10.
 
 
